@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    padding-top: 50px;
+}
+
+.row {
+    height: 100%;
+}
+
+.map-main {
+    height: 100%;
+}
+
+.container {
+    height: 80%;
+}
+
+.site-description {
+    padding-top: 20px;
+    color: #999;
+}
+
+.location-sidebar {
+    max-height: 75vh;
+    overflow-y: scroll;
+}
+
+#map-canvas {
+    height: 100%;
+}
