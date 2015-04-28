@@ -1,7 +1,8 @@
 # San Francisco Food Truck Locator
 This application is a food truck locator for the San Francisco area. 
 The app can be accessed at: http://ec2-54-187-138-125.us-west-2.compute.amazonaws.com/
-My solution is full-stack (Python queries the DataSF API and relays the results via JSON to the Backbone.js frontend).
+My solution is full-stack (Python queries the DataSF API and relays the results via JSON to the Backbone.js frontend). I completed the project in about four hours (this includes research into Flask and Backbone.js).
+
 
 ## Technologies
 Back-end:
